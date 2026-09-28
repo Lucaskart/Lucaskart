@@ -24,6 +24,8 @@ Interested in the folowing topics:
 - [N2 Soluções](https://n2solucoes.com.br/)
 - [Wellon Digital](https://wellon.digital/)
 
+Experience with these technologies: [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,php,git,laravel,vue,vuetify,react,vite,angular,java,py,discordjs&perline=16)](https://skillicons.dev)
+
 ## Contact Info
 
 You can contact me in either english or portuguese through the following emails:
